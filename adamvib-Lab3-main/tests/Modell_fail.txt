@@ -1,0 +1,22 @@
+
+[
+  [idle,      [run_left, run_right, jump]],       
+  [run_left,  [idle, run_right, jump, fall]], 
+  [run_right, [idle, run_left, jump, fall]],       
+  [jump,      [fall]],                        
+  [fall,      [idle, die]],                     
+  [die,       [die]]                           
+].
+
+[
+  [idle,      [ground, safe]],
+  [run_left,  [ground, moving, left]], 
+  [run_right, [ground, moving, right]],
+  [jump,      [air, moving]],
+  [fall,      [air, danger]],
+  [die,       [dead]]
+].
+
+idle.
+
+ag(ef(safe)).

@@ -1,0 +1,13 @@
+[p, q].
+
+imp(u,q).
+
+[
+  [1, p, premise],
+  [2, q, premise],
+  [
+    [3, u, assumption],
+    [4, and(p, u), andint(3, 1)]
+  ],
+  [5, imp(u,q), impint(2,4)]
+].

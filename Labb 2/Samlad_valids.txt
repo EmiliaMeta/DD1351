@@ -1,0 +1,340 @@
+//Valid01
+[imp(p, q), p].
+
+q.
+
+[
+  [1, imp(p,q), premise],
+  [2, p,        premise],
+  [3, q,        impel(2,1)]
+].
+
+//Valid02
+[q].
+imp(p,q).
+[
+    [1, q,        premise],
+    [
+      [2, p,      assumption],
+      [3, q,      copy(1)]
+    ],
+    [4, imp(p,q), impint(2,3)]
+].
+
+//Valid03
+[imp(p,or(q,r)),p,neg(r)].
+
+q.
+
+[
+  [1, imp(p,or(q,r)),    premise],
+  [2, p,                 premise],
+  [3, neg(r),            premise],
+  [4, or(q,r),           impel(2,1)],
+  [
+    [5, neg(q),          assumption],
+    [
+      [6, q,             assumption],
+      [7, cont,          negel(6,5)]
+    ],
+    [
+      [8, r,             assumption],
+      [9, cont,          negel(8,3)]
+    ],
+    [10, cont,           orel(4,6,7,8,9)]
+  ],
+  [11, q,                pbc(5,10)]
+].
+
+//Valid04
+[or(p,q),imp(p,r),imp(q,r)].
+r.
+[
+  [1, or(p,q),    premise],
+  [2, imp(p,r),   premise],
+  [3, imp(q,r),   premise],
+  [
+    [4, p,        assumption],
+    [5, r,        impel(4,2)]
+  ],
+  [
+    [6, q,        assumption],
+    [7, r,        impel(6,3)]
+  ],
+  [8, r,          orel(1,4,5,6,7)]
+].
+
+//Valid05
+[imp(p,q),neg(q)].
+neg(p).
+[
+  [1, imp(p,q),   premise],
+  [
+    [2, p,        assumption],
+    [3, q,        impel(2,1)],
+    [4, neg(q),   premise],
+    [5, cont,     negel(3,4)]
+  ],
+  [6, neg(p),     negint(2,5)]
+].
+
+//Valid06
+[and(imp(p, neg(p)), imp(neg(r), p))].
+
+neg(p).
+
+[
+  [1, and(imp(p, neg(p)), imp(neg(r), p)), premise],
+  [2, imp(p, neg(p)),                      andel1(1)],
+  [
+    [3, p,                                 assumption],
+    [4, neg(p),                            impel(3,2)],
+    [5, cont,                              negel(3,4)]
+  ],
+  [6, neg(p),                              negint(3,5)]
+].
+
+//Valid07
+[and(imp(p, neg(p)), imp(neg(r), p)), r].
+neg(p).
+[
+    [1,and(imp(p, neg(p)), imp(neg(r), p)),premise],
+    [2,imp(p, neg(p)), andel1(1)],
+    [
+        [3,p,assumption],
+	[4,neg(p),impel(3,2)],
+	[5,cont,negel(3,4)]
+    ],
+    [6,neg(p),negint(3,5)]
+].
+
+//Valid08
+[imp(p,q), neg(q)].
+neg(p).
+[
+  [1, imp(p,q),   premise],
+  [
+    [2, p,        assumption],
+    [3, q,        impel(2,1)],
+    [4, neg(q),   premise],
+    [5, cont,     negel(3,4)]
+  ],
+  [6, neg(p),     negint(2,5)]
+].
+
+//Valid09
+[and(p, q)].
+
+p.
+
+[
+  [1, and(p, q), premise ],
+  [2, p,         andel1(1)]
+].
+
+//Valid10
+[and(p, q)].
+
+imp(p, p).
+
+[
+  [1, and(p, q), premise ],
+  [2, p, andel1(1)],
+  [
+    [3, p, assumption]
+  ],
+  [4, imp(p, p),    impint(3,3)]
+].
+
+
+//Valid11
+[and(p, q)].
+
+imp(p, p).
+
+[
+  [1, and(p, q), premise ],
+  [2, p, andel1(1)],
+  [
+    [3, p, assumption]
+  ],
+  [4, imp(p, p),    impint(3,3)]
+].
+
+
+//Valid12
+[p, neg(p)].
+
+q.
+
+[
+  [1, p,      premise ],
+  [2, neg(p), premise ],
+  [3, cont,   negel(1,2)],
+  [4, q,      contel(3)]
+].
+
+//Valid13
+[neg(neg(and(p,q)))].
+
+q.
+
+[
+  [1, neg(neg(and(p,q))),   premise   ],
+  [2, and(p,q),             negnegel(1)],
+  [3, q,                    andel2(2) ]
+].
+
+//Valid14
+[and(p,q)].
+
+neg(neg(p)).
+
+[
+  [1, and(p,q),     premise      ],
+  [2, p,            andel1(1)    ],
+  [3, neg(neg(p)),  negnegint(2) ]
+].
+
+//Valid15
+[].
+
+or(p, neg(p)).
+
+[
+  [1, or(p, neg(p)), lem]
+].
+
+//Valid16
+[q, neg(and(p,q))].
+
+neg(p).
+
+[
+  [
+    [1, p,     assumption],
+    [2, q,     premise],
+    [3, and(p,q), andint(1,2)]
+  ],
+  [4, imp(p, and(p,q)), impint(1,3)],
+  [5, neg(and(p,q)), premise],
+  [6, neg(p), mt(4, 5)]
+].
+
+//Valid17
+[imp(neg(q),p), neg(p)].
+
+q.
+
+[
+  [
+    [1, neg(q),        assumption ],
+    [2, imp(neg(q),p), premise    ],
+    [3, p,             impel(1,2) ],
+    [4, neg(p),        premise    ],
+    [5, cont,          negel(3, 4)]
+  ],
+  [6, q,               pbc(1,5)   ]
+].
+
+//Valid18
+[q].
+
+imp(p,q).
+
+[
+  [1, q, premise],
+  [
+    [2, p, assumption],
+    [
+      [3, r, assumption],
+      [4, q, copy(1)]
+    ],
+    [5, q, copy(1)]
+  ],
+  [6, imp(p,q), impint(2,5)]
+].
+
+//Valid19
+[or(p,q),x].
+
+and(imp(p,x),x).
+
+[
+  [1, or(p,q),           premise],
+  [
+    [2, p,               assumption],
+    [3, x,               premise]
+  ],
+  [4, imp(p, x),         impint(2,3)],
+  [
+    [5, q,               assumption],
+    [6, x,               premise]
+  ],
+  [7, x,                 orel(1,2,3,5,6)],
+  [8, and(imp(p,x),x),   andint(4,7)]
+].
+
+//Valid20 
+[q].
+
+and(imp(p,q),imp(p,q)).
+
+[
+  [
+    [1, p,                     assumption],
+    [2, q,                     premise]
+  ],
+  [3, imp(p,q),                impint(1,2)],
+  [4, imp(p,q),                impint(1,2)],
+  [5, and(imp(p,q),imp(p,q)),  andint(3,4)]
+].
+
+//Valid21 
+[p].
+
+p.
+
+[
+  [1, or(q, neg(q)), lem],
+  [2, p,        premise]
+].
+
+//Valid22
+[t].
+
+imp(p, imp(q, imp(r, imp(s, t)))).
+
+[
+  [1, t, premise],
+  [
+    [2, p, assumption],
+    [
+      [3, q, assumption],
+        [
+          [4, r, assumption],
+          [
+              [5, s, assumption],
+              [6, t, copy(1)]
+          ],
+          [7, imp(s,t), impint(5,6)]
+        ],
+      [8, imp(r, imp(s,t)), impint(4,7)]
+    ],
+    [9, imp(q, imp(r, imp(s,t))), impint(3,8)]
+  ],
+  [10, imp(p, imp(q, imp(r, imp(s,t)))), impint(2,9)]
+].
+
+//Valid23
+[p].
+
+and(or(p,r), or(r,p)).
+
+[
+  [1, p, premise],
+  [2, or(p,r),        orint1(1)],
+  [3, or(r,p),        orint2(1)],
+  [4, and(or(p,r), or(r,p)),        andint(2,3)]
+].
+

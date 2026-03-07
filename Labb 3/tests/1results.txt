@@ -1,0 +1,1460 @@
+valid000.txt yes
+ passed
+valid001.txt yes
+ passed
+valid002.txt yes
+ passed
+valid004.txt yes
+ passed
+valid005.txt yes
+ passed
+valid006.txt yes
+ passed
+valid011.txt yes
+ passed
+valid012.txt yes
+ passed
+valid014.txt yes
+ passed
+valid016.txt yes
+ passed
+valid018.txt yes
+ passed
+valid022.txt yes
+ passed
+valid023.txt yes
+ passed
+valid024.txt yes
+ passed
+valid031.txt yes
+ passed
+valid032.txt yes
+ passed
+valid035.txt yes
+ passed
+valid036.txt yes
+ passed
+valid037.txt yes
+ passed
+valid038.txt yes
+ passed
+valid042.txt yes
+ passed
+valid043.txt yes
+ passed
+valid053.txt yes
+ passed
+valid054.txt yes
+ passed
+valid056.txt yes
+ passed
+valid060.txt yes
+ passed
+valid061.txt yes
+ passed
+valid063.txt yes
+ passed
+valid065.txt yes
+ passed
+valid068.txt yes
+ passed
+valid070.txt yes
+ passed
+valid073.txt yes
+ passed
+valid079.txt yes
+ passed
+valid081.txt yes
+ passed
+valid085.txt yes
+ passed
+valid086.txt yes
+ passed
+valid087.txt yes
+ passed
+valid093.txt yes
+ passed
+valid098.txt yes
+ passed
+valid099.txt yes
+ passed
+valid102.txt yes
+ passed
+valid107.txt yes
+ passed
+valid112.txt yes
+ passed
+valid117.txt yes
+ passed
+valid121.txt yes
+ passed
+valid124.txt yes
+ passed
+valid133.txt yes
+ passed
+valid136.txt yes
+ passed
+valid137.txt yes
+ passed
+valid145.txt yes
+ passed
+valid146.txt yes
+ passed
+valid147.txt yes
+ passed
+valid151.txt yes
+ passed
+valid153.txt yes
+ passed
+valid157.txt yes
+ passed
+valid161.txt yes
+ passed
+valid163.txt yes
+ passed
+valid173.txt yes
+ passed
+valid175.txt yes
+ passed
+valid176.txt yes
+ passed
+valid181.txt yes
+ passed
+valid182.txt yes
+ passed
+valid186.txt yes
+ passed
+valid187.txt yes
+ passed
+valid188.txt yes
+ passed
+valid190.txt yes
+ passed
+valid192.txt yes
+ passed
+valid193.txt yes
+ passed
+valid199.txt yes
+ passed
+valid201.txt yes
+ passed
+valid203.txt yes
+ passed
+valid215.txt yes
+ passed
+valid218.txt yes
+ passed
+valid219.txt yes
+ passed
+valid220.txt yes
+ passed
+valid224.txt yes
+ passed
+valid225.txt yes
+ passed
+valid226.txt yes
+ passed
+valid229.txt yes
+ passed
+valid232.txt yes
+ passed
+valid233.txt yes
+ passed
+valid242.txt yes
+ passed
+valid245.txt yes
+ passed
+valid249.txt yes
+ passed
+valid255.txt yes
+ passed
+valid259.txt yes
+ passed
+valid263.txt yes
+ passed
+valid265.txt yes
+ passed
+valid269.txt yes
+ passed
+valid271.txt yes
+ passed
+valid274.txt yes
+ passed
+valid275.txt yes
+ passed
+valid276.txt yes
+ passed
+valid279.txt yes
+ passed
+valid280.txt yes
+ passed
+valid281.txt yes
+ passed
+valid289.txt yes
+ passed
+valid290.txt yes
+ passed
+valid301.txt yes
+ passed
+valid304.txt yes
+ passed
+valid305.txt yes
+ passed
+valid314.txt yes
+ passed
+valid322.txt yes
+ passed
+valid327.txt yes
+ passed
+valid346.txt yes
+ passed
+valid348.txt yes
+ passed
+valid351.txt yes
+ passed
+valid355.txt yes
+ passed
+valid356.txt yes
+ passed
+valid360.txt yes
+ passed
+valid364.txt yes
+ passed
+valid366.txt yes
+ passed
+valid380.txt yes
+ passed
+valid381.txt yes
+ passed
+valid389.txt yes
+ passed
+valid391.txt yes
+ passed
+valid393.txt yes
+ passed
+valid394.txt yes
+ passed
+valid397.txt yes
+ passed
+valid398.txt yes
+ passed
+valid400.txt yes
+ passed
+valid403.txt yes
+ passed
+valid407.txt yes
+ passed
+valid409.txt yes
+ passed
+valid410.txt yes
+ passed
+valid411.txt yes
+ passed
+valid417.txt yes
+ passed
+valid420.txt yes
+ passed
+valid421.txt yes
+ passed
+valid426.txt yes
+ passed
+valid438.txt yes
+ passed
+valid441.txt yes
+ passed
+valid443.txt yes
+ passed
+valid447.txt yes
+ passed
+valid451.txt yes
+ passed
+valid453.txt yes
+ passed
+valid455.txt yes
+ passed
+valid459.txt yes
+ passed
+valid460.txt yes
+ passed
+valid465.txt yes
+ passed
+valid468.txt yes
+ passed
+valid474.txt yes
+ passed
+valid479.txt yes
+ passed
+valid493.txt yes
+ passed
+valid506.txt yes
+ passed
+valid515.txt yes
+ passed
+valid516.txt yes
+ passed
+valid518.txt yes
+ passed
+valid519.txt yes
+ passed
+valid521.txt yes
+ passed
+valid523.txt yes
+ passed
+valid530.txt yes
+ passed
+valid541.txt yes
+ passed
+valid550.txt yes
+ passed
+valid552.txt yes
+ passed
+valid558.txt yes
+ passed
+valid559.txt yes
+ passed
+valid578.txt yes
+ passed
+valid585.txt yes
+ passed
+valid586.txt yes
+ passed
+valid588.txt yes
+ passed
+valid592.txt yes
+ passed
+valid593.txt yes
+ passed
+valid594.txt yes
+ passed
+valid597.txt yes
+ passed
+valid598.txt yes
+ passed
+valid599.txt yes
+ passed
+valid609.txt yes
+ passed
+valid621.txt yes
+ passed
+valid627.txt yes
+ passed
+valid628.txt yes
+ passed
+valid631.txt yes
+ passed
+valid635.txt yes
+ passed
+valid640.txt yes
+ passed
+valid648.txt yes
+ passed
+valid650.txt yes
+ passed
+valid652.txt yes
+ passed
+valid653.txt yes
+ passed
+valid661.txt yes
+ passed
+valid664.txt yes
+ passed
+valid666.txt yes
+ passed
+valid667.txt yes
+ passed
+valid668.txt yes
+ passed
+valid670.txt yes
+ passed
+valid673.txt yes
+ passed
+valid675.txt yes
+ passed
+valid686.txt yes
+ passed
+valid687.txt yes
+ passed
+valid689.txt yes
+ passed
+valid699.txt yes
+ passed
+valid703.txt yes
+ passed
+valid706.txt yes
+ passed
+valid710.txt yes
+ passed
+valid715.txt yes
+ passed
+valid721.txt yes
+ passed
+valid728.txt yes
+ passed
+valid738.txt yes
+ passed
+valid747.txt yes
+ passed
+valid753.txt yes
+ passed
+valid756.txt yes
+ passed
+valid768.txt yes
+ passed
+valid785.txt yes
+ passed
+valid792.txt yes
+ passed
+valid797.txt yes
+ passed
+valid800.txt yes
+ passed
+valid806.txt yes
+ passed
+valid811.txt yes
+ passed
+valid814.txt yes
+ passed
+valid823.txt yes
+ passed
+valid826.txt yes
+ passed
+valid832.txt yes
+ passed
+valid833.txt yes
+ passed
+valid835.txt yes
+ passed
+valid836.txt yes
+ passed
+valid839.txt yes
+ passed
+valid840.txt yes
+ passed
+valid842.txt yes
+ passed
+valid843.txt yes
+ passed
+valid849.txt yes
+ passed
+valid852.txt yes
+ passed
+valid855.txt yes
+ passed
+valid859.txt yes
+ passed
+valid862.txt yes
+ passed
+valid865.txt yes
+ passed
+valid872.txt yes
+ passed
+valid873.txt yes
+ passed
+valid874.txt yes
+ passed
+valid882.txt yes
+ passed
+valid883.txt yes
+ passed
+valid887.txt yes
+ passed
+valid888.txt yes
+ passed
+valid896.txt yes
+ passed
+valid903.txt yes
+ passed
+valid905.txt yes
+ passed
+valid910.txt yes
+ passed
+valid911.txt yes
+ passed
+valid912.txt yes
+ passed
+valid914.txt yes
+ passed
+valid917.txt yes
+ passed
+valid934.txt yes
+ passed
+valid939.txt yes
+ passed
+valid951.txt yes
+ passed
+valid953.txt yes
+ passed
+valid968.txt yes
+ passed
+valid986.txt yes
+ passed
+valid987.txt yes
+ passed
+valid999.txt yes
+ passed
+invalid007.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid009.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid013.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid015.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid017.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid019.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid020.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid025.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid026.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid027.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid028.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid029.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid030.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid039.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid041.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid044.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid045.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid048.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid050.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid051.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid055.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid064.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid067.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid071.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid074.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid078.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid082.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid089.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid090.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid091.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid096.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid097.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid101.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid104.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid105.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid106.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid110.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid111.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid113.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid114.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid115.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid118.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid120.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid122.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid123.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid125.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid126.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid128.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid129.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid131.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid132.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid134.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid139.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid140.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid141.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid142.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid143.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid144.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid148.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid149.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid150.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid152.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid154.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid156.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid158.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid160.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid165.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid166.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid168.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid169.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid171.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid172.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid174.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid178.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid180.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid183.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid184.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid189.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid191.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid194.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid195.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid196.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid197.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid202.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid205.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid206.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid207.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid208.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid209.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid210.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid211.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid213.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid214.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid216.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid217.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid221.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid223.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid228.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid230.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid231.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid234.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid237.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid238.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid239.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid241.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid244.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid246.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid247.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid248.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid250.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid251.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid252.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid253.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid254.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid256.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid257.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid258.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid260.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid262.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid264.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid266.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid268.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid270.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid273.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid277.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid283.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid285.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid286.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid288.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid291.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid292.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid293.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid294.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid295.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid296.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid297.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid302.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid303.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid307.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid309.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid310.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid313.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid315.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid316.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid317.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid318.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid319.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid320.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid321.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid323.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid325.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid326.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid328.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid329.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid330.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid331.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid332.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid333.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid334.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid335.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid336.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid339.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid340.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid342.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid343.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid344.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid345.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid347.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid349.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid352.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid353.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid354.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid357.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid358.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid359.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid361.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid365.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid368.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid371.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid373.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid376.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid377.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid378.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid379.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid383.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid384.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid385.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid386.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid387.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid388.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid392.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid395.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid399.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid401.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid404.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid412.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid414.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid415.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid416.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid419.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid423.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid424.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid425.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid428.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid429.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid431.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid432.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid435.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid436.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid439.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid440.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid442.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid444.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid445.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid446.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid449.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid454.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid456.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid457.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid458.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid461.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid462.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid464.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid466.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid467.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid469.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid470.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid471.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid473.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid475.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid476.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid481.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid482.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid483.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid485.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid487.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid489.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid491.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid500.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid504.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid507.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid508.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid510.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid511.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid517.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid526.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid528.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid529.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid531.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid536.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid537.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid539.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid540.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid542.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid544.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid545.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid546.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid548.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid554.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid556.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid557.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid561.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid562.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid563.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid564.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid566.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid569.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid570.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid571.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid572.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid573.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid580.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid582.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid583.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid587.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid589.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid591.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid601.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid602.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid603.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid604.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid606.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid607.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid608.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid610.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid613.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid617.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid618.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid620.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid624.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid626.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid629.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid630.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid632.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid633.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid634.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid636.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid638.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid639.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid641.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid642.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid645.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid646.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid647.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid651.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid654.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid655.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid657.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid658.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid659.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid662.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid663.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid665.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid669.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid671.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid672.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid674.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid676.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid678.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid680.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid681.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid683.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid684.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid685.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid688.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid690.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid691.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid692.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid693.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid694.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid697.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid698.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid700.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid701.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid707.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid708.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid709.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid712.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid713.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid714.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid718.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid720.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid723.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid725.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid727.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid729.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid731.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid732.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid733.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid735.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid737.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid740.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid741.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid743.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid745.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid746.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid748.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid749.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid751.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid752.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid754.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid755.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid757.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid758.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid759.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid760.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid761.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid770.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid771.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid772.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid773.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid774.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid775.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid778.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid780.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid782.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid789.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid791.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid793.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid795.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid796.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid799.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid801.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid802.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid803.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid805.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid807.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid809.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid812.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid815.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid816.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid818.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid819.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid822.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid824.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid825.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid827.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid828.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid829.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid830.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid831.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid834.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid837.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid838.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid841.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid844.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid848.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid853.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid854.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid856.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid857.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid858.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid860.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid861.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid863.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid866.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid870.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid875.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid876.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid877.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid878.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid879.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid881.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid884.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid885.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid889.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid890.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid891.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid894.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid895.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid898.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid901.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid902.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid906.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid907.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid909.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid913.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid915.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid920.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid921.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid922.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid923.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid925.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid926.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid929.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid931.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid933.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid935.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid936.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid938.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid940.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid941.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid943.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid944.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid945.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid946.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid947.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid948.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid950.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid952.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid956.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid957.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid960.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid961.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid963.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid965.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid966.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid970.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid974.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid976.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid977.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid979.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid980.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid983.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid984.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid989.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid990.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid991.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid993.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid995.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid996.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid997.txt no
+ failed. The proof is invalid but your program accepted it!
+invalid998.txt no
+ failed. The proof is invalid but your program accepted it!
