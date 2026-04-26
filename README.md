@@ -36,7 +36,7 @@ The checker was also explored as a potential proof *generator* by leaving the pr
 
 ---
 
-### Lab 3: CTL Model Checker in Prolog *(group work with Adam Viberg)*
+### Lab 3: CTL Model Checker in Prolog
 **Concepts:** Computational Tree Logic (CTL), temporal logic, transition systems, loop detection, recursive model checking
 
 Implemented a **model checker** for CTL (Computational Tree Logic) in Prolog. Given a transition system, a labeling function, a start state, and a CTL formula, the program outputs `yes` if the formula holds and `no` otherwise.
@@ -61,6 +61,6 @@ Passed the complete provided test suite.
 ---
 
 ## Author
-
+Group work with Adam Viberg,
 **Emilia Lindqvist** — KTH Information Technology  
 [GitHub Profile](https://github.com/EmiliaMeta)
