@@ -54,7 +54,7 @@ Passed the complete provided test suite.
 
 ---
 
-##: Language & Tools
+## Language & Tools
 
 - Prolog (SWI-Prolog / GNU Prolog)
 
